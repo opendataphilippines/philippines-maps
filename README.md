@@ -1,5 +1,7 @@
 # OpenDataPH Maps
 
+Here's our attempt to open source (possibly) all maps of the Philippines to SVG format. This should be helpful when creating an application that use maps and can be manipulated to your needs.
+
 ## Contribute
 
 For now, you can message us through our Facebook page, https://www.facebook.com/opendataphilippines We might create a Community/Group there if we get more traction. Thank you!
