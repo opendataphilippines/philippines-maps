@@ -19,20 +19,20 @@ philippines-maps/
 ├─ /r01-ilocos/
 │ ├─ r01-overview.svg
 │ └─ provinces/
-│ └─ ph-pangasinan/
-│ ├─ ph-pangasinan.svg
-│ └─ cities/
-│ ├─ ph-manaoag.svg
-│ └─ ph-dagupan-city.svg
+│   └─ ph-pangasinan/
+│     ├─ ph-pangasinan.svg
+│     └─ cities/
+│       ├─ ph-manaoag.svg
+│ 		└─ ph-mapandan.svg
 └─ /r07-central-visayas/
-├─ r07-overview.svg
-└─ provinces/
-└─ ph-cebu/
-├─ ph-cebu.svg
-└─ cities/
-├─ ph-bantayan.svg
-├─ ph-madridejos.svg
-└─ ph-santa-fe.svg
+  ├─ r07-overview.svg
+  └─ provinces/
+    └─ ph-cebu/
+      ├─ ph-cebu.svg
+      └─ cities/
+        ├─ ph-bantayan.svg
+        ├─ ph-madridejos.svg
+        └─ ph-santa-fe.svg
 ```
 
 ## 🏷️ Naming Conventions
